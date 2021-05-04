@@ -1,2 +1,2 @@
-# c-31
-c-31 white hat jr class
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
